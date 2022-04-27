@@ -6,3 +6,6 @@ node_modules
 .output
 .env
 .idea
+
+# Local Netlify folder
+.netlify
